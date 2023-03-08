@@ -1,0 +1,7 @@
+../Core/Src/bma280.c:32:6:bma280_read	40	static
+../Core/Src/bma280.c:50:6:bma280_readm	40	static
+../Core/Src/bma280.c:74:6:bma280_write	16	static
+../Core/Src/bma280.c:87:5:bma280_init	8	static
+../Core/Src/bma280.c:135:6:bma280_sleep	8	static
+../Core/Src/bma280.c:143:6:bma280_wakeup	8	static
+../Core/Src/bma280.c:151:6:bma280_read_accl	32	static
